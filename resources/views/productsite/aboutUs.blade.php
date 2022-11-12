@@ -131,7 +131,7 @@ html {
       </div>
       <p class="mainheading test-align-left">PackProSol is a tech-based solution developed by Holisol to provide one stop <br> digital platform for all your packaging needs </p>
 
-      <h2 style="text-align:left">Advantages of associating with us:</h2>
+      <h2 style="text-align:left">Advantages of associating with us:   </h2>
         <div class="row">
           <div class="col-md-12">
             <h5> <i class="bi bi-asterisk"></i> A gamut of packaging products available on single platform</h5><br>
